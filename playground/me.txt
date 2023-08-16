@@ -1,0 +1,5 @@
+{{#user}
+Name: Aman Verma
+Skills: HTML, CSS, JS, ReactJS, NodeJS, JQuery, bootstrap, C++, Python, MERN Stack
+Email: vaman1650@gmail.com
+{{/user}}
